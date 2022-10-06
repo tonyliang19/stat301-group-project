@@ -6,7 +6,7 @@
 ## Members:
 
 - Dorothy Ger
-- Ryang Peng
+- Ryan Peng
 - Tony Liang
 
 
