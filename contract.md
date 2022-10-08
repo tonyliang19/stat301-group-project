@@ -63,5 +63,4 @@ At a minimum, your group contract must address these questions:
 
 - Each member should "sign" (you can just type out your name) at the bottom of the submission.
     
-    Sparsh Bajaj (10/07/22)
-    Ryan Peng (10/08/22)
+    Sparsh Bajaj (10/07/22), Ryan Peng (10/08/22)
