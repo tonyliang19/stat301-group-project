@@ -1,11 +1,4 @@
-# Group Contract Template
-
-A group contract is a document to help you formalize the expectations you have for your group members and what they can expect of you. It will help you think about what you need from each other to work effectively as a team! You will create and agree on this contract as a team.
-
-**PS**: This is to be edited and signed by group members
- 
-
-At a minimum, your group contract must address these questions:
+# Stat 301 Group 40 contract
 
 **GOALS**
 
@@ -33,7 +26,7 @@ At a minimum, your group contract must address these questions:
 
 - What do we expect of one another regarding attendance at meetings, participation, frequency of communication, quality of work, etc.?
     
-    Reply message in 24 hour.
+    Reply message within 24 hours.
     
     Set deadlines for each part of our work
     
