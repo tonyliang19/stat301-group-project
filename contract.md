@@ -56,4 +56,4 @@
 
 - Each member should "sign" (you can just type out your name) at the bottom of the submission.
     
-  **Signatures**:  Sparsh Bajaj (10/07/22), Ryan Peng (10/08/22), Tony Liang (10/08/22)
+  **Signatures**:  Sparsh Bajaj (10/07/22), Ryan Peng (10/08/22), Tony Liang (10/08/22), Dorothy Ger (10/08/22)
