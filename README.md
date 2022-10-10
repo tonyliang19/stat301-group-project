@@ -7,6 +7,7 @@
 
 - Dorothy Ger
 - Ryan Peng
+- Sparsh Bajaj
 - Tony Liang
 
 
