@@ -2,6 +2,7 @@
 
 <PLACEHOLDER> The project description should go here, briefly describes the problem, methods, and goal.
 
+Dummy 
 
 ## Members:
 
