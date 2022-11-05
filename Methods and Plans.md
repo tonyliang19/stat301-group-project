@@ -7,7 +7,7 @@ What methods do you plan on using?
 
 For our Proposal, we plan to predict the count of bikes using the variable cnt by using `temp`, `hum`, and `windspeed` variables.  We plan to make this prediction using Poisson Regression as we believe it can be effectively used for modeling count data (count of bikes).
 If we assume our different independent variables to x1, x2, x3 etc and our response variable (cnt) to be Y,  then our model can be described as shown below: 
-log (E(Y|x)) =  $\alpha$ + $\beta$x1 + $\beta$x2 + $\beta$x3 + $\beta$x4 
+log (E(Y|x)) =  $\alpha$ + $\beta$ x1 + $\beta$ x2 + $\beta$ x3 + $\beta$ x4 
 
 
 What do you expect to achieve?
