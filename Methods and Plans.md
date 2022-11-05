@@ -9,10 +9,14 @@ For our Proposal, we plan to predict the count of bikes using the variable cnt b
 If we assume our different independent variables to x1, x2, x3 etc and our response variable (cnt) to be Y,  then our model can be described as shown below: 
 log (E(Y|x)) =  + x1 + x2 + x3 + x4 
 
+
 What do you expect to achieve?
+
 We expect to see a difference in the count of bikes based on different conditions such as the season, the day of the week, or weather condition. In the study done by Yang et al, the survey results show that there is a decrease in use of bikes during holidays. Even though we expect to find differences in the cnt we are still unaware of how significant these differences will be and the degree of impact the individual explanatory variables.
 
+
 What impact could your results have?
+
 Our results can have a significant impact on the business model of the company providing Bike Sharing Services. If it is proven that their services have more demand depending on the season, the day of the week, or weather conditions, then this will allow the bike sharing company to better be able to predict the demand for their services and anticipate any situations of unexpected demand for their services.
 
 
